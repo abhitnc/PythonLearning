@@ -11,4 +11,7 @@ print("2**3 =", result)
 result = 5 - 3
 #print("5 - 3 =", result)
 
+def main():
+  print("test")
+main()
 print("Challenge complete!")
