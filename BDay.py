@@ -1,8 +1,4 @@
-from datetime import timedelta
-from datetime import time
-from datetime import datetime
-from datetime import date
-
+from datetime import timedelta, time, datetime, date
 def main():
     today=date.today()
     bday=date(today.year,5,26)
