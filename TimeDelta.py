@@ -1,7 +1,4 @@
-from datetime import datetime
-from datetime import date
-from datetime import time
-from datetime import timedelta
+from datetime import datetime, date, time, timedelta
 
 def main():
     print(timedelta(days=365,hours=5,minutes=1))
